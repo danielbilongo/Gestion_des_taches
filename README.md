@@ -120,7 +120,7 @@ Dans application.properties
   },
   {
     "titre": "Préparer la présentation",
-    "description": "Créer les slides pour la présentation client de la semaine prochaine.",
+    "description": "Créer les slides pour la présentation client de la semaine prochaine",
     "statut": "EN_COURS",
     "priorite": "MOYENNE",
     "responsable": "Alice",
